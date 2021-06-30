@@ -28,7 +28,7 @@ I write tech content from time to time, sometimes attend meetups and hold 30 min
 
 Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) then! 
 
-📘 Latest Blog Articles
+<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30px"> Latest Blog Articles
 ---
 <!-- BLOG-POST-LIST:START -->
 
@@ -38,7 +38,7 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+<img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30px"> My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramy23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
