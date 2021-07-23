@@ -31,11 +31,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30px"> Latest Blog Articles
 ---
 <!-- BLOG-POST-LIST:START -->
+- [Do not be Sorry, Be Better.](https://ramy.hashnode.dev/do-not-be-sorry-be-better)
 - [What is State Management and why is it so important?](https://ramy.hashnode.dev/what-is-state-management-and-why-is-it-so-important)
 - [A Tale of Two Flows](https://ramy.hashnode.dev/a-tale-of-two-flows)
 - [Get to know Git](https://ramy.hashnode.dev/get-to-know-git)
 - [Git it done!](https://ramy.hashnode.dev/git-it-done)
-- [Continuous Glory](https://ramy.hashnode.dev/continuous-glory)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
