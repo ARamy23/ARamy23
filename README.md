@@ -47,3 +47,6 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramy23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ramy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramy23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Daily.Dev Card
+<a href="https://app.daily.dev/aramy23"><img src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=t86" width="400" alt="Ahmed Ramy's Dev Card"/></a>
