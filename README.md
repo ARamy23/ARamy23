@@ -50,9 +50,14 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 </div>
 
 ---
+
 # What do the number says
 
+<div width="100%">
+  
 ![Metrics](https://github.com/ARamy23/ARamy23/blob/main/metrics.classic.svg)
+  
+</div>
 
 --- 
 
