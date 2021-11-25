@@ -52,7 +52,7 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 ---
 # What do the number says
 
-![Metrics](https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg)
+![Metrics](https://github.com/ARamy23/ARamy23/blob/main/metrics.classic.svg)
 
 --- 
 
