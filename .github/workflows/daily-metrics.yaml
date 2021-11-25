@@ -52,7 +52,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.contributors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.READ_ME }}
           base: ""
           template: repository
           user: lowlighter
@@ -69,7 +69,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.READ_ME }}
           base: ""
           plugin_people: yes
           plugin_people_types: sponsors
@@ -85,7 +85,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.READ_ME }}
           base: ""
           template: repository
           repo: metrics
