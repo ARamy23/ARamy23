@@ -17,7 +17,7 @@
 
   <a href="https://app.daily.dev/aramy23" target="_blank">
     <img
-      width="128"
+      width="256"
       align="right"
       src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=t86"
     />
@@ -27,20 +27,16 @@
 A Software Engineer specializing in Apple technologies with a knack for exploring all tech out there. 
 But for professional experience, you will find that listed below in the <strong>toolbox</strong>.
   </p>
-</div>
 
-<br />
-<br />
-<br />
 
-![Metrics](https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg)
-
+  --- 
 I write tech content from time to time, sometimes attend meetups and hold 30 mins knowledge sharing sessions with some of my friends, mostly about Swift and iOS Development, **and** I also talk a lot about other topics like scripting, productivity and how to utilize tools inside your daily workflow to get things done faster.
 
 Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) then! 
 
 <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30px"> Latest Blog Articles
----
+
+  ---
 <!-- BLOG-POST-LIST:START -->
 - [The ROI on getting uncomfortable](https://ramy.hashnode.dev/the-roi-on-getting-uncomfortable)
 - [Do not be Sorry, Be Better.](https://ramy.hashnode.dev/do-not-be-sorry-be-better)
@@ -50,14 +46,13 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
+  </p>
+</div>
 
 ---
+# What do the number says
 
-<img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30px"> My GitHub Stats
+![Metrics](https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramy23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+--- 
 
-[![Ramy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramy23&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-# Daily.Dev Card
-<a href="https://app.daily.dev/aramy23"><img src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=t86" width="400" alt="Ahmed Ramy's Dev Card"/></a>
