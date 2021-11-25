@@ -33,7 +33,7 @@ But for professional experience, you will find that listed below in the <strong>
 <br />
 <br />
 
-![Metrics](https://raw.githubusercontent.com/ARamy23/ARamy23/github-metrics/github-metrics.svg)
+![Metrics](https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg)
 
 I write tech content from time to time, sometimes attend meetups and hold 30 mins knowledge sharing sessions with some of my friends, mostly about Swift and iOS Development, **and** I also talk a lot about other topics like scripting, productivity and how to utilize tools inside your daily workflow to get things done faster.
 
