@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
 
 jobs:   
   github-metrics:
@@ -14,28 +14,20 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.16
         with:
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.READ_ME }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
-
-          # Options
-          user: ARamy23
-          template: classic
-          base: header, activity, community
-          config_timezone: Africa/Cairo
-
-          # Language plugin
+          template: markdown
+          filename: metrics.markdown.full.md
+          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
+          config_output: markdown
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_posts: yes
+          plugin_topics: yes
+          plugin_topics_limit: 24
+          plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-
-          # Achievement plugin
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_filter: stars:>150
-          plugin_notable_repositories: yes
+          token: ${{ secrets.READ_ME }}
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
