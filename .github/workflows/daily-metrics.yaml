@@ -17,6 +17,7 @@ jobs:
           template: markdown
           filename: metrics.markdown.full.md
           markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
+          token: ${{ secrets.READ_ME }}
           config_output: markdown
           plugin_activity: yes
           plugin_activity_limit: 7
@@ -27,7 +28,71 @@ jobs:
           plugin_topics_limit: 24
           plugin_isocalendar: yes
           plugin_languages: yes
-          token: ${{ secrets.READ_ME }}
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
+          delay: 120
+  github-metrics-repository:
+    runs-on: ubuntu-latest
+    if: "github.repository == 'lowlighter/lowlighter'"
+    steps:
+
+      - name: Contributors
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.contributors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          user: lowlighter
+          repo: metrics
+          plugin_people: yes
+          plugin_people_types: contributors
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          config_display: large
+          output_action: pull-request
+          delay: 120
+
+      - name: Sponsors
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: sponsors
+          plugin_people_sponsors_custom: yutkat, ktnkk, iamsainikhil, tfSheol
+          plugin_people_size: 48
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          config_display: large
+          output_action: pull-request
+          delay: 120
+
+      - name: Licenses
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
