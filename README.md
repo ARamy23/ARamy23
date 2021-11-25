@@ -1,28 +1,39 @@
 ### Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ahmed Ramy! <img src="https://emojis.slackmojis.com/emojis/images/1453827617/277/kylo_ren.png?1453827617" width="30px">
 
 ---
+<div align="left">
+  <a href="https://twitter.com/iDevAR23">
+    <img
+      src="https://img.shields.io/twitter/follow/iDevAR23?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/aramy23/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
+  <a href="https://app.daily.dev/aramy23" target="_blank">
+    <img
+      width="128"
+      align="right"
+      src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=t86"
+    />
+  </a>
+  
+  <p>
 A Software Engineer specializing in Apple technologies with a knack for exploring all tech out there. 
+But for professional experience, you will find that listed below in the <strong>toolbox</strong>.
+  </p>
+</div>
 
-But for professional experience, you will find that listed below in the **toolbox**.
+<br />
+<br />
+<br />
 
-
-🧰 Toolbox
----
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple Eco-System Developer" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift Evangelist" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby Scripter" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Deployer" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Designer" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="PHP Laravel Explorer" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Lord" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Utilizer" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis User" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="CircleCI" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Basher" width="50" height="50"/>
----
+![Metrics](https://raw.githubusercontent.com/ARamy23/ARamy23/github-metrics/github-metrics.svg)
 
 I write tech content from time to time, sometimes attend meetups and hold 30 mins knowledge sharing sessions with some of my friends, mostly about Swift and iOS Development, **and** I also talk a lot about other topics like scripting, productivity and how to utilize tools inside your daily workflow to get things done faster.
 
