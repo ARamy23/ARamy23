@@ -4,14 +4,28 @@
 <div align="left">
   <a href="https://twitter.com/iDevAR23">
     <img
-      src="https://img.shields.io/twitter/follow/iDevAR23?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/twitter/follow/iDevAR23?style=social"
       alt="Twitter"
     />
   </a>
   <a href="https://www.linkedin.com/in/aramy23/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/badge/LinkedIn-Let's%20Network!-informational?style=social&logo=linkedin"
       alt="LinkedIn"
+    />
+  </a>
+  
+  <a href="https://github.com/ARamy23">
+    <img
+      src="https://img.shields.io/github/followers/ARamy23?style=social"
+      alt="Follow me on Github"
+    />
+  </a>
+
+  <a href="https://ramy.hashnode.dev">
+    <img
+      src="https://img.shields.io/badge/Sharing%20Knowledge-Check%20it%20out!-informational?style=social&logo=hashnode"
+      alt="Follow me on Github"
     />
   </a>
 
@@ -19,7 +33,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=t86"
+      src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=ul5"
     />
   </a>
   
@@ -51,7 +65,7 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
 ---
 
-# What do the number says
+# Enough writing, let the data talk.
 
 <div width="100%">
   
