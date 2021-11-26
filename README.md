@@ -69,7 +69,7 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
 <div width="100%">
   
-![Metrics](github-metrics.svg)
+![Metrics](https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg)
   
 </div>
 
