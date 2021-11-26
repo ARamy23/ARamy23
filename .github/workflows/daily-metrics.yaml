@@ -19,6 +19,7 @@ jobs:
           template: classic
           base: activity, community, repositories, metadata
           config_timezone: Africa/Cairo
+          config_padding: 0, 0 + 0%
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 100
