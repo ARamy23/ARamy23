@@ -67,10 +67,14 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
 # Enough writing, let the data talk.
 
-<div width="100%">
-  
-![Metrics](https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg)
-  
+<div 
+     width="100%"
+     align="center"
+>
+  <img
+    width="65%"
+    src="https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg"
+  />
 </div>
 
 --- 
