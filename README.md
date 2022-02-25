@@ -52,11 +52,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Homicide: The Time Machine](https://blog.ahmedramy.me/architecture-homicide-the-time-machine)
+- [Architecture Homicide: Red Alert](https://blog.ahmedramy.me/architecture-homicide-red-alert)
+- [Architecture Homicide: Meet the Characters](https://blog.ahmedramy.me/architecture-homicide-meet-the-characters)
+- [Architecture Homicide](https://blog.ahmedramy.me/architecture-homicide)
 - [Mindsets: #1 Warrior Mindset vs Victim Mindset](https://blog.ahmedramy.me/mindsets-1-warrior-mindset-vs-victim-mindset)
-- [Test-Driven Development: #5 Refactoring Validation](https://blog.ahmedramy.me/test-driven-development-5-refactoring-validation)
-- [Test-Driven Development: #4 Testing Caching](https://blog.ahmedramy.me/test-driven-development-4-testing-caching)
-- [Test-Driven Development: #3 Testing Network](https://blog.ahmedramy.me/test-driven-development-3-testing-network)
-- [The ROI on getting uncomfortable](https://blog.ahmedramy.me/the-roi-on-getting-uncomfortable)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
