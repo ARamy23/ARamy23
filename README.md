@@ -52,11 +52,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
+- [Mindset Books: The 5 AM Club](https://blog.ahmedramy.me/mindset-books-the-5-am-club)
+- [The Journey of the 50 Books](https://blog.ahmedramy.me/the-journey-of-the-50-books)
 - [Architecture Homicide: The Time Machine](https://blog.ahmedramy.me/architecture-homicide-the-time-machine)
 - [Architecture Homicide: Red Alert](https://blog.ahmedramy.me/architecture-homicide-red-alert)
 - [Architecture Homicide: Meet the Characters](https://blog.ahmedramy.me/architecture-homicide-meet-the-characters)
-- [Architecture Homicide](https://blog.ahmedramy.me/architecture-homicide)
-- [Mindsets: #1 Warrior Mindset vs Victim Mindset](https://blog.ahmedramy.me/mindsets-1-warrior-mindset-vs-victim-mindset)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
