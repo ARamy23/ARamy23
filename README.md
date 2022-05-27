@@ -52,11 +52,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
+- [Problem Solving: Introduction](https://blog.ahmedramy.me/problem-solving-introduction)
 - [Test-Driven Development: #7 Navigation](https://blog.ahmedramy.me/test-driven-development-7-navigation)
 - [Test-Driven Development: #6 Testing Alerts, Popups, and Messages](https://blog.ahmedramy.me/test-driven-development-6-testing-alerts-popups-and-messages)
 - [Mindset Books: The 5 AM Club](https://blog.ahmedramy.me/mindset-books-the-5-am-club)
 - [The Journey of the 50 Books](https://blog.ahmedramy.me/the-journey-of-the-50-books)
-- [Architecture Homicide: The Time Machine](https://blog.ahmedramy.me/architecture-homicide-the-time-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
