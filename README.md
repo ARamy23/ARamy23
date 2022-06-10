@@ -1,4 +1,4 @@
-### Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ahmed Ramy! <img src="https://emojis.slackmojis.com/emojis/images/1453827617/277/kylo_ren.png?1453827617" width="30px">
+### Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Ahmed Ramy! <img src="https://emojis.slackmojis.com/emojis/images/1453827617/277/kylo_ren.png?1453827617" width="30px" height="30px">
 
 ---
 <div align="left">
@@ -48,7 +48,7 @@ I write tech content from time to time, sometimes attend meetups and hold 30 min
 
 Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) then! 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30px"> Latest Blog Articles
+<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30px" height="30px"> Latest Blog Articles
 
   ---
 <!-- BLOG-POST-LIST:START -->
@@ -64,18 +64,3 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 </div>
 
 ---
-
-# Enough writing, let the data talk.
-
-<div 
-     width="100%"
-     align="center"
->
-  <img
-    width="65%"
-    src="https://github.com/ARamy23/ARamy23/blob/main/github-metrics.svg"
-  />
-</div>
-
---- 
-
