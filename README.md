@@ -52,11 +52,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
+- [Error Handling: Loggings](https://blog.ahmedramy.me/error-handling-loggings)
+- [Error Handling: Silent Bullets](https://blog.ahmedramy.me/error-handling-silent-bullets)
+- [Life: The other side of War](https://blog.ahmedramy.me/the-other-side-of-war)
 - [Problem Solving: Introduction](https://blog.ahmedramy.me/problem-solving-introduction)
 - [Test-Driven Development: #7 Navigation](https://blog.ahmedramy.me/test-driven-development-7-navigation)
-- [Test-Driven Development: #6 Testing Alerts, Popups, and Messages](https://blog.ahmedramy.me/test-driven-development-6-testing-alerts-popups-and-messages)
-- [Mindset Books: The 5 AM Club](https://blog.ahmedramy.me/mindset-books-the-5-am-club)
-- [The Journey of the 50 Books](https://blog.ahmedramy.me/the-journey-of-the-50-books)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
