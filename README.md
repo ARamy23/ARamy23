@@ -52,11 +52,12 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
+- [12 Lesson from my 
+first Internship](https://blog.ahmedramy.me/12-lesson-from-my-first-internship)
 - [Patterns: Plug-ins](https://blog.ahmedramy.me/patterns-plug-ins)
 - [Error Handling: Error Flow](https://blog.ahmedramy.me/error-handling-error-flow)
 - [Error Handling: Wrapping](https://blog.ahmedramy.me/error-handling-wrapping)
 - [Error Handling: Loggings](https://blog.ahmedramy.me/error-handling-loggings)
-- [Error Handling: Silent Bullets](https://blog.ahmedramy.me/error-handling-silent-bullets)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
