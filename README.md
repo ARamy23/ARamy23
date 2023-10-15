@@ -28,14 +28,6 @@
       alt="Follow me on Github"
     />
   </a>
-
-  <a href="https://app.daily.dev/aramy23" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/59588e67a94a4c209d148c0de61a4e4c.png?r=ul5"
-    />
-  </a>
   
   <p>
 A Software Engineer specializing in Apple technologies with a knack for exploring all tech out there. 
