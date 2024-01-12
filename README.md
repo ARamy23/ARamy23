@@ -44,11 +44,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
-- [Productivity Hacks: Terminal Warped](https://blog.ahmedramy.me/productivity-hacks-terminal-warped)
-- [Error Handling: Defined Errors](https://blog.ahmedramy.me/error-handling-defined-errors)
-- [12 Lesson from my first Internship](https://blog.ahmedramy.me/12-lesson-from-my-first-internship)
-- [Patterns: Plug-ins](https://blog.ahmedramy.me/patterns-plug-ins)
-- [Error Handling: Error Flow](https://blog.ahmedramy.me/error-handling-error-flow)
+- [Productivity Hacks: Terminal Warped](https://ramy.hashnode.dev/productivity-hacks-terminal-warped)
+- [Error Handling: Defined Errors](https://ramy.hashnode.dev/error-handling-defined-errors)
+- [12 Lesson from my first Internship](https://ramy.hashnode.dev/12-lesson-from-my-first-internship)
+- [Patterns: Plug-ins](https://ramy.hashnode.dev/patterns-plug-ins)
+- [Error Handling: Error Flow](https://ramy.hashnode.dev/error-handling-error-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
