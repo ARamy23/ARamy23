@@ -44,11 +44,11 @@ Got you interested? feel free to check out my [blog](https://ramy.hashnode.dev) 
 
   ---
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Domain-Driven Design: Model, Domain Model, View Model](https://blog.ahmedramy.me/implementing-domain-driven-design-model-domain-model-view-model)
+- [Implementing DDD: Ubiquitous Language, Domain Expert, and some Boundaries](https://blog.ahmedramy.me/implementing-ddd-ubiquitous-language-domain-expert-and-some-boundaries)
+- [Implementing DDD: Domain Modeling](https://blog.ahmedramy.me/implementing-domain-driven-design-model-domain-model-view-model)
 - [Patterns: Command + Siri](https://blog.ahmedramy.me/patterns-command-siri)
 - [Patterns: Commands](https://blog.ahmedramy.me/patterns-commands)
 - [Productivity Hacks: Terminal Warped](https://blog.ahmedramy.me/productivity-hacks-terminal-warped)
-- [Error Handling: Defined Errors](https://blog.ahmedramy.me/error-handling-defined-errors)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ramy.hashnode.dev)
